@@ -1,1 +1,1 @@
-# HospitalManagementApp
+# HospitalManagementSystem
